@@ -1,13 +1,15 @@
+// 一个TextBox（命名为textBoxCoords）用于用户手动输入坐标。
+// 一个Button（命名为btnLoadFromFile）用于从文件中加载坐标。
+// 一个Button（命名为btnSave）用于保存Shapefile。
+// 一个SaveFileDialog（命名为saveFileDialog）用于选择保存路径。
+
+
 using System;
 using System.IO;
 using System.Windows.Forms;
 using OSGeo.OGR;
 using System.Collections.Generic;
 
-一个TextBox（命名为textBoxCoords）用于用户手动输入坐标。
-一个Button（命名为btnLoadFromFile）用于从文件中加载坐标。
-一个Button（命名为btnSave）用于保存Shapefile。
-一个SaveFileDialog（命名为saveFileDialog）用于选择保存路径。
 
 namespace ShapefileCreationExample
 {
