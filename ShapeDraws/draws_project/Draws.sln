@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Draws", "Draws.csproj", "{BBCBA266-9C56-49FC-8DED-9C0069214A6F}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup Draws", "..\Setup Draws\Setup Draws.vdproj", "{91DA958A-C5AA-4001-AD22-D672CA96B283}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBCBA266-9C56-49FC-8DED-9C0069214A6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBCBA266-9C56-49FC-8DED-9C0069214A6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBCBA266-9C56-49FC-8DED-9C0069214A6F}.Debug|x86.ActiveCfg = Debug|x86
+		{BBCBA266-9C56-49FC-8DED-9C0069214A6F}.Debug|x86.Build.0 = Debug|x86
+		{BBCBA266-9C56-49FC-8DED-9C0069214A6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBCBA266-9C56-49FC-8DED-9C0069214A6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBCBA266-9C56-49FC-8DED-9C0069214A6F}.Release|x86.ActiveCfg = Release|x86
+		{BBCBA266-9C56-49FC-8DED-9C0069214A6F}.Release|x86.Build.0 = Release|x86
+		{91DA958A-C5AA-4001-AD22-D672CA96B283}.Debug|Any CPU.ActiveCfg = Debug
+		{91DA958A-C5AA-4001-AD22-D672CA96B283}.Debug|x86.ActiveCfg = Debug
+		{91DA958A-C5AA-4001-AD22-D672CA96B283}.Release|Any CPU.ActiveCfg = Release
+		{91DA958A-C5AA-4001-AD22-D672CA96B283}.Release|x86.ActiveCfg = Release
+		{91DA958A-C5AA-4001-AD22-D672CA96B283}.Release|x86.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0FB9D9D3-A459-45F5-8AAA-48CD56A2A390}
+	EndGlobalSection
+EndGlobal
