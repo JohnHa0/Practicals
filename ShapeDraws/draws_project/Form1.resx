@@ -178,14 +178,7 @@
     <value>11</value>
   </data>
   <data name="textBoxCoords.Text" xml:space="preserve">
-    <value>3459N、12337E,
-3409N、12337E,
-3309N、12321E,
-3309N、12253E,
-3459N、12337E,
-3409N、12337E,
-3309N、12321E,
-3309N、12253E</value>
+    <value>  </value>
   </data>
   <data name="&gt;&gt;$this.Name" xml:space="preserve">
     <value>MainForm</value>
